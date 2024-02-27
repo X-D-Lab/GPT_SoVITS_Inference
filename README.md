@@ -11,6 +11,7 @@
 | TTS-GPT_SoVITS-heartful_sister | [🤗]() / [🤖](https://modelscope.cn/models/X-D-Lab/TTS-GPT_SoVITS-heartful_sister/summary) | 知性姐姐 | zh |
 
 - 预训练模型
+
 | 模型名称 | 模型下载 |
 | :----: | :----: |
 | GPT-SoVITS | [🤗]() / [🤖](https://modelscope.cn/models/X-D-Lab/TTS-GPT_SoVITS-pretrained_models/summary) |
